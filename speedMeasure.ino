@@ -2,19 +2,6 @@
 
 Code completed on 27-04-2025 22:54 pm IST.
 
-You are free to use the code anyhow you want, but please try to keep this comment attached. It means a lot to me.
-
-  _____  _____ _______ _    _ _____ _   _ 
- |  __ \|_   _|__   __| |  | |_   _| \ | |
- | |__) | | |    | |  | |__| | | | |  \| |
- |  _  /  | |    | |  |  __  | | | | . ` |
- | | \ \ _| |_   | |  | |  | |_| |_| |\  |
- |_|  \_\_____|  |_|  |_|  |_|_____|_| \_|
-
-Support me 
-
-Github - https://github.com/RithinM69
-
 */
 
 const int trigPin = 7;
